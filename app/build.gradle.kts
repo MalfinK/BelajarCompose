@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.example.belajarcompose"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.example.belajarcompose"
